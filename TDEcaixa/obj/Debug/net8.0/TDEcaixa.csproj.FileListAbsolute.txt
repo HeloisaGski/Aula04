@@ -1,0 +1,14 @@
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\bin\Debug\net8.0\TDEcaixa.exe
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\bin\Debug\net8.0\TDEcaixa.deps.json
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\bin\Debug\net8.0\TDEcaixa.runtimeconfig.json
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\bin\Debug\net8.0\TDEcaixa.dll
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\bin\Debug\net8.0\TDEcaixa.pdb
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\obj\Debug\net8.0\TDEcaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\obj\Debug\net8.0\TDEcaixa.AssemblyInfoInputs.cache
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\obj\Debug\net8.0\TDEcaixa.AssemblyInfo.cs
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\obj\Debug\net8.0\TDEcaixa.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\obj\Debug\net8.0\TDEcaixa.dll
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\obj\Debug\net8.0\refint\TDEcaixa.dll
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\obj\Debug\net8.0\TDEcaixa.pdb
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\obj\Debug\net8.0\TDEcaixa.genruntimeconfig.cache
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcaixa\obj\Debug\net8.0\ref\TDEcaixa.dll

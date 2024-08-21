@@ -1,0 +1,14 @@
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\bin\Debug\net8.0\TDEcalculadora.exe
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\bin\Debug\net8.0\TDEcalculadora.deps.json
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\bin\Debug\net8.0\TDEcalculadora.runtimeconfig.json
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\bin\Debug\net8.0\TDEcalculadora.dll
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\bin\Debug\net8.0\TDEcalculadora.pdb
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\obj\Debug\net8.0\TDEcalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\obj\Debug\net8.0\TDEcalculadora.AssemblyInfoInputs.cache
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\obj\Debug\net8.0\TDEcalculadora.AssemblyInfo.cs
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\obj\Debug\net8.0\TDEcalculadora.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\obj\Debug\net8.0\TDEcalculadora.dll
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\obj\Debug\net8.0\refint\TDEcalculadora.dll
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\obj\Debug\net8.0\TDEcalculadora.pdb
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\obj\Debug\net8.0\TDEcalculadora.genruntimeconfig.cache
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEcalculadora\obj\Debug\net8.0\ref\TDEcalculadora.dll

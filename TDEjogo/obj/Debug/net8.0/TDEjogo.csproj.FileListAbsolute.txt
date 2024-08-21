@@ -1,0 +1,14 @@
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\bin\Debug\net8.0\TDEjogo.exe
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\bin\Debug\net8.0\TDEjogo.deps.json
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\bin\Debug\net8.0\TDEjogo.runtimeconfig.json
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\bin\Debug\net8.0\TDEjogo.dll
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\bin\Debug\net8.0\TDEjogo.pdb
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\obj\Debug\net8.0\TDEjogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\obj\Debug\net8.0\TDEjogo.AssemblyInfoInputs.cache
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\obj\Debug\net8.0\TDEjogo.AssemblyInfo.cs
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\obj\Debug\net8.0\TDEjogo.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\obj\Debug\net8.0\TDEjogo.dll
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\obj\Debug\net8.0\refint\TDEjogo.dll
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\obj\Debug\net8.0\TDEjogo.pdb
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\obj\Debug\net8.0\TDEjogo.genruntimeconfig.cache
+C:\Users\pichau\Documents\2°Semestre\Aula04\TDEjogo\obj\Debug\net8.0\ref\TDEjogo.dll
